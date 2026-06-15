@@ -16,7 +16,6 @@ Whether you're a content creator, marketer, student, or business owner, CaptionC
 * Clean and responsive user interface
 * Fast and lightweight architecture
 * Copy captions with one click
-* Mobile-friendly design
 * Real-time caption generation
 
 ## Tech Stack
@@ -43,12 +42,6 @@ Whether you're a content creator, marketer, student, or business owner, CaptionC
 ## Screenshot
 
 <img width="1361" height="856" alt="image" src="https://github.com/user-attachments/assets/49b60432-157a-45c1-9b12-d498c4254be7" />
-
-
-
-
-
-
 
 ## Usage
 
