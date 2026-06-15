@@ -1,4 +1,4 @@
-# CaptionCraft
+<img width="1361" height="856" alt="image" src="https://github.com/user-attachments/assets/6f1ff7b3-1b19-4feb-b9ef-59dfd1cf39e8" /># CaptionCraft
 
 AI-powered caption generator that creates engaging, creative, and context-aware captions from images or user prompts.
 
@@ -40,77 +40,15 @@ Whether you're a content creator, marketer, student, or business owner, CaptionC
 
 * MongoDB
 
-## Screenshots
+## Screenshot
 
-Add screenshots of your application here.
+<img width="1361" height="856" alt="image" src="https://github.com/user-attachments/assets/49b60432-157a-45c1-9b12-d498c4254be7" />
 
-### Home Page
 
-![Home Page](./screenshots/home.png)
 
-### Generated Captions
 
-![Captions](./screenshots/result.png)
 
-## Installation
 
-### Clone the Repository
-
-```bash
-git clone https://github.com/amandevspace/CaptionCraft.git
-```
-
-### Navigate to Project Directory
-
-```bash
-cd CaptionCraft
-```
-
-### Install Dependencies
-
-Frontend
-
-```bash
-cd frontend
-npm install
-```
-
-Backend
-
-```bash
-cd backend
-npm install
-```
-
-### Configure Environment Variables
-
-Create a `.env` file inside the backend folder.
-
-```env
-PORT=5000
-MONGODB_URI=your_mongodb_connection_string
-API_KEY=your_ai_api_key
-```
-
-### Run the Application
-
-Backend
-
-```bash
-npm run dev
-```
-
-Frontend
-
-```bash
-npm start
-```
-
-The application will be available at:
-
-```text
-http://localhost:3000
-```
 
 ## Usage
 
@@ -122,26 +60,7 @@ http://localhost:3000
 
 ## Project Structure
 
-```text
-CaptionCraft
-│
-├── frontend
-│   ├── src
-│   ├── public
-│   └── package.json
-│
-├── backend
-│   ├── controllers
-│   ├── routes
-│   ├── models
-│   ├── services
-│   └── package.json
-│
-├── screenshots
-├── .env
-├── README.md
-└── LICENSE
-```
+
 
 ## Future Improvements
 
@@ -159,7 +78,7 @@ CaptionCraft
 Aman Kumar
 
 GitHub: https://github.com/amandevspace
-
+project link :https://captioncraft-4jip.onrender.com/
 ---
 
 If you find this project useful, consider giving it a star.
